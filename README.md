@@ -4,6 +4,8 @@
 
 In this project, I apply skills I learned in Data Engineering Section to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.  As we all know that during a disaster we use to get a lot of messages and tweets and it gets quite troublesome to manage them during the disaster. It will be a great help if we can classify those messages and respond accordingly. This project does exactly that.
 
+Data used is provided by Figure Eight.
+
 ## File Description
 
     .
